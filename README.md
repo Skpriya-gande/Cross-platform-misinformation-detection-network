@@ -1,4 +1,4 @@
-#🛰️ Cross-Platform Misinformation Detection Network
+##🛰️ Cross-Platform Misinformation Detection Network
 
 A unified machine learning and graph-based architecture designed to detect misinformation across multiple online platforms using text semantics, propagation behavior, and graph learning.
 
