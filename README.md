@@ -95,10 +95,14 @@ This deployment demonstrates the real-world applicability and usability of the s
 
 📊 Summary of Results
 
-CTPP-GNN achieved the best performance among all baselines.
+✔ CTPP-GNN achieved the best performance among all baselines.
 
-Graph-based propagation modeling significantly improved detection accuracy.
+✔ Graph-based propagation modeling significantly improved detection accuracy.
 
-Cross-dataset training enhanced generalization to unseen platforms.
+✔ Cross-dataset training enhanced generalization to unseen platforms.
 
-The deployed website showcases real-time misinformation classification capability.
+✔ The deployed website showcases real-time misinformation classification capability.
+
+Blog:
+
+https://gayathri19022004.blogspot.com/2025/11/cross-platform-misinformation-detection.html
